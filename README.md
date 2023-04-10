@@ -19,8 +19,3 @@ You can reach me at NeyComiunity@gmail.com for any inquiries or questions.
 
 ### ✨ Streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillGrachev)](https://git.io/streak-stats)
-
-
-
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
