@@ -13,4 +13,4 @@ If you're interested in contributing to any of my projects, please feel free to 
 <h3> 📫 Contact Me </h3>
 You can reach me at NeyComiunity@gmail.com for any inquiries or questions. 
 
-* Thank you for stopping by my profile! Happy coding! 😎
+#### Thank you for stopping by my profile! Happy coding! 😎
