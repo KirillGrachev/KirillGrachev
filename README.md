@@ -17,5 +17,5 @@ You can reach me at NeyComiunity@gmail.com for any inquiries or questions.
 
 #### Thank you for stopping by my profile! Happy coding! 😎
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/KirillGrachev/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillGrachev)](https://git.io/streak-stats)
