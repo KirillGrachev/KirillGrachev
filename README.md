@@ -16,3 +16,6 @@ If you're interested in contributing to any of my projects, please feel free to 
 You can reach me at NeyComiunity@gmail.com for any inquiries or questions. 
 
 #### Thank you for stopping by my profile! Happy coding! 😎
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillGrachev)](https://git.io/streak-stats)
