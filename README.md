@@ -1,7 +1,7 @@
-<h1> 🚀 Minecraft Plugin Developer </h1>
+<h3> 🚀 Minecraft Plugin Developer </h3>
 Welcome to my repository! Here, you'll find all the Minecraft plugins I've developed for the community.
 
-###🧐 About Me 
+<h3> 🧐 About Me </h3>
 I'm a passionate Minecraft plugin developer who loves to create new things for the Minecraft community. I spend most of my time working on new plugin ideas and constantly improving my existing ones.
 
 ###💻 My Work 
