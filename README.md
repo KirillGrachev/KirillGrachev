@@ -1,4 +1,4 @@
-<h1> Hi 🙈 </h1>
+<h1 align="center">Hi there, I'm <a href="https://vk.com/k_gra4ev" target="_blank">Kirill</a>
 
 <h3> 🚀 Minecraft Plugin Developer </h3>
 Welcome to my repository! Here, you'll find all the Minecraft plugins I've developed for the community.
