@@ -1,4 +1,4 @@
-###🚀 Minecraft Plugin Developer
+<h1> 🚀 Minecraft Plugin Developer </h1>
 Welcome to my repository! Here, you'll find all the Minecraft plugins I've developed for the community.
 
 ###🧐 About Me 
