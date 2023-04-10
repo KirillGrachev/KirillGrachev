@@ -17,5 +17,5 @@ You can reach me at NeyComiunity@gmail.com for any inquiries or questions.
 
 #### Thank you for stopping by my profile! Happy coding! 😎
 
-### 🔥 Streak stats:
+### ✨ Streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillGrachev)](https://git.io/streak-stats)
