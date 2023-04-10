@@ -10,7 +10,7 @@ I've developed a variety of plugins, ranging from small utility plugins to more 
 <h3> 🤝 Contributing </h3>
 If you're interested in contributing to any of my projects, please feel free to fork the repository and submit a pull request! I'm always looking for new ideas and improvements to my plugins.
 
-###📫 Contact Me
+<h3> 📫 Contact Me </h3>
 You can reach me at NeyComiunity@gmail.com for any inquiries or questions. 
 
-Thank you for stopping by my profile! Happy coding! 😎
+* Thank you for stopping by my profile! Happy coding! 😎
