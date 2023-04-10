@@ -1,4 +1,4 @@
-<> Hi 🙈 </>
+<h1> Hi 🙈 </h1>
 
 <h3> 🚀 Minecraft Plugin Developer </h3>
 Welcome to my repository! Here, you'll find all the Minecraft plugins I've developed for the community.
