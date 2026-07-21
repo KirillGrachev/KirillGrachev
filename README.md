@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/85827eb2-6acb-44b7-85f1-dedd69cc8b3b" />
+<img width="1920" height="1080" alt="Kirill Grachev" src="https://github.com/user-attachments/assets/4b77c735-c0fd-43f1-a9e1-5d724c396076" />
