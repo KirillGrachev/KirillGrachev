@@ -1,1 +1,1 @@
-<img width="1905" height="3853" alt="Kirill Grachev — Portfolio" src="https://github.com/user-attachments/assets/2eabb547-73f7-4506-b40a-049d20e0bce5" />
+<img width="1905" height="3853" alt="Kirill Grachev — Portfolio" src="https://github.com/user-attachments/assets/244b9505-6d09-4de1-ad98-05c8a9fc093b" />
